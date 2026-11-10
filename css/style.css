@@ -491,7 +491,7 @@ ul li a:hover {
 
 /* ===== Layout satu layar (tanpa scroll), atas & bawah seimbang ===== */
 html {
-  --zoom: 0.85; /* ukuran tampilan: 0.85 = 85%. Ubah sesuai selera */
+  --zoom: 0.9; /* ukuran tampilan: 0.85 = 85%. Ubah sesuai selera */
   zoom: var(--zoom);
   background-color: var(--extra-light);
 }
